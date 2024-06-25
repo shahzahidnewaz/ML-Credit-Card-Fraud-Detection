@@ -1,5 +1,4 @@
 # ML-Credit-Card-Fraud-Detection
-<h1>Credit Card Fraud Detection Analysis</h1>
 
 <h2>Setup and Data Loading</h2>
 <p>This section imports necessary libraries, mounts Google Drive, and loads the credit card dataset. It then displays basic information about the data, including the first few rows, shape, and null value counts.</p>
